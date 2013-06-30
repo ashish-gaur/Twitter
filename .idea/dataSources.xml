@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1272142917">
+    <data-source source="LOCAL" name="Rails Twitter4: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="ff6c06ce-9f65-43cf-a03c-8c1dc7e366ab">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:development</jdbc-url>
+      <user-name>ubuntu</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Twitter4: test" product="PostgreSQL" version="9.1.9" jdbc-version="3.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.1 JDBC3 (build 901)" uuid="82f1a0a2-a4f3-480c-8d51-43a6acfb6b13">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:test</jdbc-url>
+      <user-name>ubuntu</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Twitter4: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="deb85d28-8e7b-4832-99f3-534935d40b45">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:production</jdbc-url>
+      <user-name>ubuntu</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
